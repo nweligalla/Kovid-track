@@ -1,0 +1,62 @@
+#covid-stat_filter{
+    margin-bottom: 10px;
+
+}
+
+#covid-stat_length{
+
+    margin-bottom: 10px;
+}
+
+#header-banner{
+
+}
+
+.paginate_button{
+    border-radius: 20px !important;
+    color: white !important;
+    background-color: #126e82;
+    margin: 10px;
+}
+
+.paginate_button :hover{
+    color: black !important;
+    background-color: white !important;
+}
+
+.dataTables_info{
+    margin: 10px;
+}
+
+.main-dash{
+    background-color: #51c4d3;
+    border-radius: 30px;
+    padding: 5% 10%;
+    color: #132c33;;
+}
+
+footer{
+    background-color: #132c33 !important;
+}
+
+#covid-stat_filter input{
+   border-radius: 10px !important;
+}
+
+
+
+body{
+    background-color: #d8e3e7 !important;
+}
+
+nav{
+    background-color: #126e82;
+}
+
+thead{
+    background-color: #132c33;
+}
+
+tbody td{
+    background-color: #e1e5ea !important;
+}
